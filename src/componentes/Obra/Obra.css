@@ -8,7 +8,7 @@
 }
 .obra img {
     width: 110px;
-    /* border-radius: 50%; */
+    border-radius: 50%;
     position: relative;
     bottom: -50px;
 }
