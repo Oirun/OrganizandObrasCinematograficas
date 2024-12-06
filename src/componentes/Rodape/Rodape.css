@@ -1,0 +1,22 @@
+.rodapeBanner {
+    background-color: #708c69;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 32px 0;
+}
+
+.rodapeBanner h5{
+    color: #fcf3e4;
+    font-size: large;
+}
+
+.rodapeBanner .rodapeBanner_logotipo img{
+    max-width: 70%;
+}
+
+.rodapeBanner_redes_sociais{
+    display: flex;
+    gap: 38px;
+}

@@ -1,0 +1,38 @@
+.obra {
+    width: 280px;
+}
+
+.obra .cabecalho {
+    background-color:  #F0F0F0;
+    border-radius: 10px 10px 0px 0px;
+}
+.obra img {
+    width: 110px;
+    /* border-radius: 50%; */
+    position: relative;
+    bottom: -50px;
+}
+
+.obra .rodape {
+    background: #FFFFFF;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.08);
+    border-radius: 0px 0px 10px 10px;
+    padding-top: 50px;
+    padding-bottom: 40px;
+}
+
+.obra .rodape h4 {
+    color: #6278F7;
+    font-size: 18px;
+    line-height: 22px;
+    font-weight: bold;
+    margin-bottom: 2px;
+}
+
+.obra .rodape h5 {
+    font-size: 15px;
+    line-height: 22px;
+    color: #212121;
+    padding: 0 10px;
+    font-weight: 600;
+}

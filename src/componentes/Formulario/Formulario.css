@@ -1,0 +1,20 @@
+
+.formulario {
+    display: flex;
+    justify-content: center;
+    margin: 80px 0;
+    width: 100%; /* Garantir que o contêiner ocupe 100% da largura */
+}
+
+.formulario form {
+    width: 65%; /* O formulário vai ocupar 80% da largura da tela */
+    background-color: #f1e7dd;
+    border-radius: 20px;
+    padding: 36px 64px;
+    box-shadow: rgba(67, 102, 59, 0.24) 0px 3px 8px;
+}
+
+.formulario h2{
+    color: #425f45;
+}
+
